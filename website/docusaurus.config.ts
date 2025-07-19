@@ -170,7 +170,7 @@ export default async function createConfigAsync() {
     projectName: 'docusaurus',
     baseUrl,
     baseUrlIssueBanner: true,
-    url: 'https://docusaurus.io',
+    url: 'https://docusaurus-docsidebar-test.netlify.app/',
     future: {
       v4: !isSlower, // Not accurate, but good enough
       experimental_faster: isSlower
